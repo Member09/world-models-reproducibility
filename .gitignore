@@ -1,5 +1,33 @@
-# Object file
-*.o
+# --- Data and Large Files ---
+data/
+*.npy
+*.npz
 
-# Ada Library Information
-*.ali
+# --- Model Weights and Checkpoints ---
+models/
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# --- Analysis and Results ---
+results/plots/
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+
+# --- IDEs and OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs and Jupyter ---
+*.log
+.ipynb_checkpoints
