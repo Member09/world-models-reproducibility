@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/__init__.py
+world_models_reproducibility.egg-info/PKG-INFO
+world_models_reproducibility.egg-info/SOURCES.txt
+world_models_reproducibility.egg-info/dependency_links.txt
+world_models_reproducibility.egg-info/requires.txt
+world_models_reproducibility.egg-info/top_level.txt
